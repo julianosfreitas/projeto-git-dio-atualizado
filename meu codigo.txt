@@ -1,4 +1,4 @@
 Olá, meu nome é juliano freitas
 Cadastro usuários:
--Login:
--Senha:
+-Login: Julianosfreitas
+-Senha: #########
