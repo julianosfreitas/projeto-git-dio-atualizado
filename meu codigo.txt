@@ -1,2 +1,4 @@
-meu nome é juliano freitas
-nova linha
+Olá, meu nome é juliano freitas
+Cadastro usuários:
+-Login:
+-Senha:
